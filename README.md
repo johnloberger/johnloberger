@@ -1,6 +1,6 @@
 ### Hello 👋, I'm John Loberger
 
-![](https://komarev.com/ghpvc/?username=johnloberger)
+![](https://komarev.com/ghpvc/?username=johnloberger&color=brightgreen)
 
 
    <p align="center">

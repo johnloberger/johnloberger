@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [Clyma](https://github.com/johnloberger/Clyma-Frontend), an air quality data visaulizer and news hub for climate change.
 - 🌱 I’m currently learning **React, Redux, Go, AWS**
 - 👨‍💻 All of my projects are available at [jloberger.com](jloberger.com)
-- 📝 I regulary write articles on [medium.com/@coltonkaiser](medium.com/@coltonkaiser)
+- 📝 I regulary write articles on [medium.com/@johnloberger](medium.com/@johnloberger)
 - 🤔 I’m looking for help with like-minded companies
 - 💬 Ask me about **ReactJS, Ruby on Rails, JavaScript, ChartJS, Google Map API**
 - 📫 How to reach me: **johnloberger@gmail.com**

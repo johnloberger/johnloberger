@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://simpleicons.org/icons/react.svg" alt="react" align="left" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/react.svg" alt="react"/>
 </p>
 
 ---

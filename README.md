@@ -16,8 +16,20 @@
 - 🌱 I’m currently learning **React, Redux, Go, AWS**
 - 👨‍💻 All of my projects are available at [jloberger.com](jloberger.com)
 - 📝 I regulary write articles on [medium.com/@johnloberger](medium.com/@johnloberger)
-- 🤔 I’m looking for help with like-minded companies
+- 👥 I’m looking to collaborate with like-minded companies
 - 💬 Ask me about **ReactJS, Ruby on Rails, JavaScript, ChartJS, Google Map API**
 - 📫 How to reach me: **johnloberger@gmail.com**
 
+---
+
+### Languages and Tools:
+<p align="left">
+  <img src="https://simpleicons.org/icons/react.svg" alt="react" align="left" width="40" height="40"/>
+</p>
+
+---
+
 <img align="center" src="https://github-readme-7ma7x.vercel.app/api?username=johnloberger&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+---
+

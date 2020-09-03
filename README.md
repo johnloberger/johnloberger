@@ -27,7 +27,7 @@
   <img src="https://simpleicons.org/icons/react.svg" alt="react" width="40" height="40"/>
    <span style="color:#F7DF1E;">
   <img src="https://simpleicons.org/icons/javascript.svg" alt="react" width="40" height="40" />
-   </div>
+   </span>
 </p>
 
 ---

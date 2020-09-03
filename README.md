@@ -4,8 +4,9 @@
       <a href="https://jloberger.com">
          <img align="center" src="https://img.shields.io/badge/JLOBERGER.COM-UP-brightgreen?style=for-the-badge" alt="Website" style="max-width:100%;">
       </a>
-   ![](https://komarev.com/ghpvc/?username=johnloberger&color=brightgreen)
+
    </p>
+      ![](https://komarev.com/ghpvc/?username=johnloberger&color=brightgreen)
 
 <h3 align="center">Passionate full stack developer, humanitarian, and life-long learner</h3>
 

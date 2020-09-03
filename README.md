@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello 👋, I'm John Loberger
 
-<img align="center" src="https://github-readme-7ma7x.vercel.app/api?username=johnloberger&hide_title=true&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
-<h1 align="center">Hello 👋, I'm John Loberger
-   </h1>
    <p align="center">
       <a href="https://jloberger.com">
          <img align="center" src="https://img.shields.io/badge/JLOBERGER.COM-UP-brightgreen?style=for-the-badge" alt="Website" style="max-width:100%;">
@@ -19,4 +15,4 @@
 - 💬 Ask me about React, Redux, Javascript, Ruby on Rails
 - 📫 How to reach me: johnloberger@gmail.com
 
-
+<img align="center" src="https://github-readme-7ma7x.vercel.app/api?username=johnloberger&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />

@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme7ma7X.vercel.app/api?username=johnloberger&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img align="center" src="https://github-readme-7ma7x.vercel.app/api?username=johnloberger&hide_title=true&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
+<h1 align="center">Hello 👋, I'm John Loberger
+   </h1>
+   <p align="center">
+      <a href="https://jloberger.com">
+         <img align="center" src="https://img.shields.io/badge/JLOBERGER.COM-UP-brightgreen?style=for-the-badge" alt="Website" style="max-width:100%;">
+      </a>
+   </p>
 
+<h3 align="center">Passionate full stack developer, humanitarian, and life-long learner</h3>
 
 - 🔭 I’m currently working on clyma
 - 🌱 I’m currently learning React/Redux

@@ -12,7 +12,7 @@
 
 <h3 align="center">Passionate full stack developer, humanitarian, and life-long learner</h3>
 
-- 🔭 I’m currently working on [Clyma](https://github.com/johnloberger/Clyma-Frontend), an air quality data visaulizer and news hub for climate change
+- 🔭 I’m currently working on [Clyma](https://github.com/johnloberger/Clyma-Frontend), an air quality data visualizer and news hub for climate change
 - 🌱 I’m currently learning **React, Redux, Go, AWS**
 - 👨‍💻 All of my projects are available at [jloberger.com](jloberger.com)
 - 📝 I regulary write articles on [medium.com/@johnloberger](medium.com/@johnloberger)

@@ -24,10 +24,20 @@
 
 ### Languages and Tools:
 <p align="left">
+  <img src="https://simpleicons.org/icons/css3.svg" alt="css" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/html5.svg" alt="html" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/react.svg" alt="react" width="40" height="40"/>
-   <span style="color:#F7DF1E;">
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="react" width="40" height="40" />
-   </span>
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="js" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/redux.svg" alt="redux" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/ruby.svg" alt="ruby" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/rubyonrails.svg" alt="rails" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/heroku.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/netlify.svg" alt="netlify" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/googlemaps.svg" alt="googlemaps" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/adobeillustrator.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/adobecreativecloud.svg" alt="cc" width="40" height="40"/>
 </p>
 
 ---

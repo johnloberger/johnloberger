@@ -12,11 +12,12 @@
 
 <h3 align="center">Passionate full stack developer, humanitarian, and life-long learner</h3>
 
-- 🔭 I’m currently working on clyma
-- 🌱 I’m currently learning React/Redux
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about React, Redux, Javascript, Ruby on Rails
-- 📫 How to reach me: johnloberger@gmail.com
+- 🔭 I’m currently working on [Clyma](https://github.com/johnloberger/Clyma-Frontend), an air quality data visaulizer and news hub for climate change.
+- 🌱 I’m currently learning **React, Redux, Go, AWS**
+- 👨‍💻 All of my projects are available at [jloberger.com](jloberger.com)
+- 📝 I regulary write articles on [medium.com/@coltonkaiser](medium.com/@coltonkaiser)
+- 🤔 I’m looking for help with like-minded companies
+- 💬 Ask me about **ReactJS, Ruby on Rails, JavaScript, ChartJS, Google Map API**
+- 📫 How to reach me: **johnloberger@gmail.com**
 
 <img align="center" src="https://github-readme-7ma7x.vercel.app/api?username=johnloberger&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />

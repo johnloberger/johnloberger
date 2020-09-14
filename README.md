@@ -5,7 +5,7 @@
 
    <p align="center">
       <a href="https://jloberger.com">
-         <img align="center" src="https://img.shields.io/badge/JLOBERGER.COM-UP-brightgreen?style=for-the-badge" alt="Website" style="max-width:100%;">
+         <img align="center" src="https://img.shields.io/badge/JLOBERGER.COM-UP-brightgreen?sdtyle=for-the-badge" alt="Website" style="max-width:100%;">
       </a>
       <a href="https://clyma.netlify.app/">
          <img align="center" src="https://img.shields.io/badge/CLYMA.COM-UP-brightgreen?style=for-the-badge" alt="Website" style="max-width:100%;">
